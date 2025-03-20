@@ -1,3 +1,17 @@
+# Ejercicio API REST NodeJS
+
+## Fecha de entrega: 20 de marzo del 2025
+
+## Docente: 
+M.C. Israel Arjona Vizcaíno
+
+## Equipo:
+- Daphne Airam Corona Flores - 20400720
+- Luis Angel Yael Cuevas Cruz- 21400664
+- Jesús Ismael Betancourt Espericueta - 21400654
+- Yves Manuel Portugal De La Paz - 21400748
+
+
 # Gestión de Productos, Compras y Usuarios
 
 Este proyecto consiste en un **cliente** para interactuar con una **API RESTful** que permite gestionar productos, compras y usuarios. Está desarrollado en **Node.js** y utiliza la librería **Axios** para realizar solicitudes HTTP a la API.
